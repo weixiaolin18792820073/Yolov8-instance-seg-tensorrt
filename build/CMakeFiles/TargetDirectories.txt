@@ -1,0 +1,4 @@
+/opt/perception/majicAI/Yolov8-instance-seg-tensorrt-main/build/CMakeFiles/onnx2trt.dir
+/opt/perception/majicAI/Yolov8-instance-seg-tensorrt-main/build/CMakeFiles/trt_infer.dir
+/opt/perception/majicAI/Yolov8-instance-seg-tensorrt-main/build/CMakeFiles/edit_cache.dir
+/opt/perception/majicAI/Yolov8-instance-seg-tensorrt-main/build/CMakeFiles/rebuild_cache.dir
